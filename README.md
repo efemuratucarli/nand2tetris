@@ -25,7 +25,7 @@ This repository contains my project implementations associated with the "Nand2Te
   </tr>
   <tr>
     <td>Project 2</td>
-    <td></td>
+    <td>Completed &#x2705</td>
   </tr>
   <tr>
     <td>Project 3</td>
